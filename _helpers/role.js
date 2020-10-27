@@ -1,0 +1,7 @@
+module.exports = {
+  EMPLOYER: "EMPLOYER",
+  ADMIN: "ADMIN",
+  VERIFIER: "VERIFIER",
+  SUPER_ADMIN: "SUPER_ADMIN",
+  VENDOR: "VENDOR",
+};

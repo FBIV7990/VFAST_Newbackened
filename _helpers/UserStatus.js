@@ -1,0 +1,6 @@
+module.exports = {
+  VERIFIED: "VERIFIED",
+  PENDING: "PENDING",
+  BLOCKED: "BLOCKED",
+  REGISTERED: "REGISTERED",
+};
